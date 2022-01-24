@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DonorManagement >
+	
+
+	<donor>
+            <donor_name> STEPEHEN </donor_name>
+            <donate_id>1001</donate_id>
+            <blood_grp>A+</blood_grp>
+            <donate_date>29 JAN 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>banglore</address>
+            <contact_no>1234098765</contact_no>
+            
+	</donor>
+
+    <donor>
+      
+            <donor_name> ROSE </donor_name>
+            <donate_id>1002</donate_id>
+            <blood_grp>AB+</blood_grp>
+            <donate_date>25 NOV 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>chennai</address>
+            <contact_no>9876540123</contact_no>
+    </donor>
+
+    <donor>
+            <donor_name> SUSEN </donor_name>
+            <donate_id>1003</donate_id>
+            <blood_grp>O+</blood_grp>
+            <donate_date>12 JAN 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>banglore</address>
+            <contact_no>7874561230</contact_no>
+    </donor>
+
+    <donor>
+            <donor_name> ALEX </donor_name>
+            <donate_id>1004</donate_id>
+            <blood_grp>O-</blood_grp>
+            <donate_date>12 JAN 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>chennai</address>
+            <contact_no>3546092378</contact_no>
+    </donor>
+
+    <donor>
+            <donor_name> ALFRED </donor_name>
+            <donate_id>1005</donate_id>
+            <blood_grp>B+</blood_grp>
+            <donate_date>12 JAN 2021</donate_date>
+            <quantity>400ml</quantity>
+            <address>banglore</address>
+            <contact_no>9645547431</contact_no>
+
+        </donor>
+
+    <donor>
+            <donor_name> AHMED SHEIK </donor_name>
+            <donate_id>1006</donate_id>
+            <blood_grp>A-</blood_grp>
+            <donate_date>12 JAN 2021</donate_date>
+            <quantity>400ml</quantity>
+            <address>chennai</address>
+            <contact_no>6584723548</contact_no>
+    </donor>
+
+    <donor>
+        
+            <donor_name> JHONY </donor_name>
+            <donate_id>1007</donate_id>
+            <blood_grp>O+</blood_grp>
+            <donate_date>6 JAN 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>chennai</address>
+            <contact_no>7254023148</contact_no>
+    </donor>
+
+    <donor>
+     
+            <donor_name> NOAH </donor_name>
+            <donate_id>1008</donate_id>
+            <blood_grp>AB+</blood_grp>
+            <donate_date>4 JAN 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>manglore</address>
+            <contact_no>5478565214</contact_no>
+		
+    </donor>
+
+    <donor>
+     
+            <donor_name> CHRISTHOPHER </donor_name>
+            <donate_id>1009</donate_id>
+            <blood_grp>B+</blood_grp>
+            <donate_date>1 JAN 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>banglore</address>
+            <contact_no>9867458245</contact_no>
+    
+        </donor>
+
+    <donor>
+    
+            <donor_name> CYNDRELLA </donor_name>
+            <donate_id>1010</donate_id>
+            <blood_grp>O+</blood_grp>
+            <donate_date>5 JAN 2022</donate_date>
+            <quantity>400ml</quantity>
+            <address>banglorejj
+            </address>
+            <contact_no>7548214563</contact_no>
+		
+    </donor>
+
+
+
+</DonorManagement>
