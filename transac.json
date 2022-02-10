@@ -1,10 +1,10 @@
 {"records":[
-    {"id":101,"name":"Tenzin","age":22,"gender":"Male","salary":50000,"Address":"Bangalore"},
-    {"id":102,"name":"Yeshi","age":23,"gender":"Female","salary":70000,"Address":"Mumbai"},
-    {"id":103,"name":"David","age":26,"gender":"Male","salary":40000,"Address":"Delhi"},
-    {"id":104,"name":"Emma","age":25,"gender":"Female","salary":34000,"Address":"Kolkata"},
-    {"id":105,"name":"Nailea","age":22,"gender":"Female","salary":66000,"Address":"Pune"},
-    {"id":106,"name":"Carly","age":21,"gender":"Female","salary":21000,"Address":"Bangalore"},
-    {"id":107,"name":"Jeff","age":16,"gender":"Male","salary":39000,"Address":"Bangalore"},
-    {"id":108,"name":"Jason","age":19,"gender":"Male","salary":80000,"Address":"Delhi"}
+    {"id":101,"name":"Dr.Avinash","age":35,"gender":"Male","salary":50000,"Address":"Bangalore"},
+    {"id":102,"name":"Dr.Sudehevan kumar","age":32,"gender":"Female","salary":70000,"Address":"Mumbai"},
+    {"id":103,"name":"Dr.David M","age":33,"gender":"Male","salary":40000,"Address":"Delhi"},
+    {"id":104,"name":"Suthina","age":25,"gender":"Female","salary":34000,"Address":"Kolkata"},
+    {"id":105,"name":"Akash","age":22,"gender":"Female","salary":66000,"Address":"Pune"},
+    {"id":106,"name":"Saleena S","age":21,"gender":"Female","salary":21000,"Address":"Bangalore"},
+    {"id":107,"name":"Jeffrin J S","age":23,"gender":"Male","salary":39000,"Address":"Bangalore"},
+    {"id":108,"name":"Anil S","age":24,"gender":"Male","salary":80000,"Address":"Delhi"}
 ]}
